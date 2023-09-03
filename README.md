@@ -1,4 +1,4 @@
 # java-filmorate
-Template repository for Filmorate project.
+Бэкенд для сервиса, который работает с фильмами и оценками пользователей, а также возвращает список наиболее популярных фильмов, рекомендованных к просмотру.
 
 ![Diagram.png](src%2Fmain%2Fresources%2FDiagram.png)
